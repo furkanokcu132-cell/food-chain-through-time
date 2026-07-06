@@ -1,0 +1,7 @@
+EraName:Past Era
+GridSize:15
+Round:6
+ANIMAL:ApexPredator,Giganotosaurus,6,3,0,0
+ANIMAL:Predator,Allosaurus,5,3,0,1
+ANIMAL:Prey,Stegosaurus,10,1,0,1
+FOOD:Cycads,1,1
